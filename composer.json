@@ -1,0 +1,13 @@
+{
+    "name": "xphp/yprint",
+    "description": "Printer test",
+    "type": "sdk",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "xphp\\yprint\\":"src/"
+        }
+    }
+}
